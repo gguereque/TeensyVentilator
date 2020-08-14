@@ -1,0 +1,20 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\..\\..\\Nodejs\\MCU_Serial"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MCU_Serial",
+		"files.associations": {
+			"functional": "cpp",
+			"regex": "cpp",
+			"system_error": "cpp",
+			"xlocmon": "cpp",
+			"xtr1common": "cpp"
+		}
+	}
+}
